@@ -9,4 +9,6 @@
 - RESTful APIs
 - Git & GitHub
 
+I'm also a GNU/Linux user :smile:
+
 🌟 I'm always eager to learn and grow, exploring new frameworks and tools to enhance my skills. I enjoy collaborating with others and sharing knowledge, so don’t hesitate to reach out if you’d like to connect or work together!
