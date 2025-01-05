@@ -2,7 +2,6 @@
 
 **<h1>👋 Hello! I'm Soroush</h1>**
 <br>
-<br>
 A dedicated **Backend Developer** with a passion for crafting seamless and efficient applications using **JavaScript**. I believe that great software can make a positive impact, and I strive to contribute to projects that do just that.
 
 <br>
