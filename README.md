@@ -7,13 +7,17 @@ A dedicated **Backend Developer** with a passion for crafting seamless and effic
 <br>
 
 💻 **Technologies I Love**:
-
+<br>
 <br>
 <a href="#">
     <img src="https://skillicons.dev/icons?i=js,expressjs,nodejs,git,github,vscode,postman,vue,prisma,linux &theme=dark" />
 </a>
 
-<br>
-<br>
 
+<h1 align="left">Stats</h1>
+<a href="https://github.com/jameselite"></a>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=jameselite&theme=midnight-purple&show_icons=true" />
+</p>
+<br>
 🌟 I'm always eager to learn and grow, exploring new frameworks and tools to enhance my skills. I enjoy collaborating with others and sharing knowledge, so don’t hesitate to reach out if you’d like to connect or work together!
