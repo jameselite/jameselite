@@ -10,7 +10,7 @@ A dedicated **Backend Developer** with a passion for crafting seamless and effic
 <br>
 <br>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,expressjs,nodejs,git,github,vscode,postman,vue,prisma,linux &theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,expressjs,nodejs,git,github,vscode,postman,vue,prisma,linux &theme=dark" />
 </a>
 
 
