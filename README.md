@@ -20,8 +20,5 @@ A dedicated **Backend Developer** with a passion for crafting seamless and effic
   <img src="https://github-readme-stats.vercel.app/api?username=jameselite&theme=midnight-purple&show_icons=true" />
 </p>
 <br>
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jameselite&theme=github-compact)
-<div>
     
 🌟 I'm always eager to learn and grow, exploring new frameworks and tools to enhance my skills. I enjoy collaborating with others and sharing knowledge, so don’t hesitate to reach out if you’d like to connect or work together!
