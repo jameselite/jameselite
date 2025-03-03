@@ -2,7 +2,7 @@
 
 **<h1>👋 Hi there! I'm Soroush</h1>**
 <br>
-A dedicated **Backend Developer** with a passion for crafting seamless and efficient applications using **JavaScript**. I believe that great software can make a positive impact, and I strive to contribute to projects that do just that.
+A dedicated **Backend Developer** with a passion for crafting seamless and efficient applications. I believe that great software can make a positive impact, and I strive to contribute to projects that do just that.
 
 <br>
 
@@ -10,7 +10,7 @@ A dedicated **Backend Developer** with a passion for crafting seamless and effic
 <br>
 <br>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,expressjs,nodejs,git,github,vscode,postman,vue,prisma,linux,postgres,python,go,bun,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,ts,expressjs,nodejs,git,github,vscode,postman,vue,prisma,linux,postgres,go,bun,redis&theme=dark" />
 </a>
 
 
