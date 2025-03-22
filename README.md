@@ -2,7 +2,7 @@
 
 **<h1>👋 Hi there! I'm Soroush</h1>**
 <br>
-A dedicated **Backend Developer** with a passion for crafting seamless and efficient applications. I believe that great software can make a positive impact, and I strive to contribute to projects that do just that.
+A **backend** developer who loves building applications that is efficient, smooth, and hassle-free. Big on open-source projects because sharing ideas and working with others is where the magic happens. Always up for creating stuff that makes life better and exploring cool new tech along the way.
 
 <br>
 
