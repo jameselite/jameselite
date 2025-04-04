@@ -10,7 +10,7 @@ A **backend** developer who loves building applications that is efficient, smoot
 <br>
 <br>
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,html,css,ts,expressjs,nodejs,git,github,vscode,postman,vue,prisma,linux,postgres,go,bun,redis&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,expressjs,nestjs,nodejs,git,github,vscode,postman,vue,prisma,linux,postgres,go,bun,redis,&theme=dark" />
 </a>
 
 
